@@ -32,8 +32,9 @@
     28 => 'Carbon\\Laravel\\ServiceProvider',
     29 => 'NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider',
     30 => 'Termwind\\Laravel\\TermwindServiceProvider',
-    31 => 'Phiki\\Adapters\\Laravel\\PhikiServiceProvider',
-    32 => 'App\\Providers\\AppServiceProvider',
+    31 => 'Pest\\Laravel\\PestServiceProvider',
+    32 => 'Phiki\\Adapters\\Laravel\\PhikiServiceProvider',
+    33 => 'App\\Providers\\AppServiceProvider',
   ),
   'eager' => 
   array (
@@ -52,8 +53,9 @@
     12 => 'Carbon\\Laravel\\ServiceProvider',
     13 => 'NunoMaduro\\Collision\\Adapters\\Laravel\\CollisionServiceProvider',
     14 => 'Termwind\\Laravel\\TermwindServiceProvider',
-    15 => 'Phiki\\Adapters\\Laravel\\PhikiServiceProvider',
-    16 => 'App\\Providers\\AppServiceProvider',
+    15 => 'Pest\\Laravel\\PestServiceProvider',
+    16 => 'Phiki\\Adapters\\Laravel\\PhikiServiceProvider',
+    17 => 'App\\Providers\\AppServiceProvider',
   ),
   'deferred' => 
   array (
